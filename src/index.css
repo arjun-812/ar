@@ -1,0 +1,7 @@
+.html,body {
+    cursor: url('./Image/cursor.svg'), auto;
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

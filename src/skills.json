@@ -1,0 +1,87 @@
+[
+    {
+        "image": "https://img.icons8.com/color/48/000000/html-5--v2.png",
+        "name": "Html",
+        "value": "288"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/css3.png",
+        "name": "Css",
+        "value": "288"
+    },
+    {
+        "image": "https://img.icons8.com/fluency/48/000000/javascript.png",
+        "name": "Js",
+        "value": "252"
+    },
+    {
+        "image": "https://img.icons8.com/fluency/48/000000/typescript--v1.png",
+        "name": "Ts",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/office/48/000000/react.png",
+        "name": "React",
+        "value": "288"
+    },
+    {
+        "image": "https://img.icons8.com/fluency/48/000000/node-js.png",
+        "name": "Node",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/express-js.png",
+        "name": "Express",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/redux.png",
+        "name": "Redux",
+        "value": "180"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/mongodb.png",
+        "name": "MongoDb",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/mysql-logo.png",
+        "name": "Sql",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/tailwind_css.png",
+        "name": "Tailwind",
+        "value": "324"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/figma--v1.png",
+        "name": "Figma",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png",
+        "name": "Ps",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png",
+        "name": "Ai",
+        "value": "180"
+    },
+    {
+        "image": "https://img.icons8.com/color/48/000000/git.png",
+        "name": "Git",
+        "value": "216"
+    },
+    {
+        "image": "https://img.icons8.com/material-outlined/48/000000/github.png",
+        "name": "Github",
+        "value": "252"
+    },
+    {
+        "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png",
+        "name": "Postman",
+        "value": "180"
+    }
+]
