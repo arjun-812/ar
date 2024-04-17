@@ -1,6 +1,5 @@
 import React from 'react'
-
-import Me from '../../Image/karthikeyan2.webp'
+import Me from '../../Image/ARJUN4.webp'
 
 const About = () => {
     return (

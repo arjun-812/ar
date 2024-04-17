@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-scroll'
-import logo from '../../Image/logokarthik.png'
+import logo from "../../Image/arjulogoo.png";
 
 const Header = () => {
     const [top, setTop] = useState(true)

@@ -5,7 +5,7 @@ import Email from '../../Image/Email.png'
 import Insta from '../../Image/instaG.png'
 import LinkedIN from '../../Image/linkedIn.png'
 import GitHub from '../../Image/github.png'
-import logo from "../../Image/image.png";
+import logo from "../../Image/arjulogoo.png";
 
 const Footer = () => {
     const clickHandle = () => {

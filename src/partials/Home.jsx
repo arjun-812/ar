@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'react-scroll/modules/components/Link';
 import Me from '../Image/ARJUN3.webp'
-import logo from "../Image/arjulogoo.svg";
+import logo from "../Image/arjulogoo.png";
 import Ring_1 from '../Image/ring1.png';
 import Ring_2 from '../Image/ring2.png';
 
